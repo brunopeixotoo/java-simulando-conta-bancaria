@@ -1,6 +1,6 @@
 /**
  * <h1>Pequeno Simulador de Caixa de Banco<h1>
- * O simulador pede entrada de dados de algumas infromações práticas:
+ * O simulador pede entrada de dados de algumas informações práticas:
  * Conta(numero), Agência(agencia), Nome(nome) e Saldo(saldo).
  * 
  * <b>Note:</b> Leia atentamente a documentação desta classe 
